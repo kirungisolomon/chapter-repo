@@ -1,2 +1,2 @@
-# chapter-repo
+# invitations-repo
 chapter 3
